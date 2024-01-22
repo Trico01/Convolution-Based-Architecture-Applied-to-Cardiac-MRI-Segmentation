@@ -16,4 +16,4 @@ Improve efficiency and reliability in cardiac MRI segmentation by conducting a t
 | U-Net      | 0.92 ± 0.019     | 9.61 ± 5.83      | 0.78 ± 0.0038    | 25.50 ± 9.72     | 0.87 ± 0.012     | 6.07 ± 3.66      |
 | GridNet    | 0.92 ± 0.018     | 6.86 ± 4.56      | 0.80 ± 0.0037    | 16.02 ± 7.24     | 0.87 ± 0.013     | 4.90 ± 2.63      |
 
-![visualization](https://github.com/Trico01/Machine-Learning-Deep-Learning-Final-Project/visualization.jpg)
+![visualization](visualization.jpg)
