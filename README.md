@@ -1,4 +1,4 @@
-# Machine-Learning-Deep-Learning-Final-Project
+# Convolution-Based Architecture Applied to Cardiac MRI Segmentation
 This is the final project of JHU EN.601.682 Machine Learning: Deep Learning course.
 
 ## Introduction
